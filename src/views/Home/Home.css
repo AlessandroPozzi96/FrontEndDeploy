@@ -1,0 +1,89 @@
+
+/* Main card */
+.sc-dQppl.eAOCdS.sc-fmlJLJ.lcginG{
+    width:150%;
+    background: #E4E4BF;
+    color:#3E3D43;
+}
+
+/* text card */
+.sc-gsTCUz.sc-hHftDr.htUtpg.eQHoMk{
+    color:#3E3D43;
+}
+
+/*menu*/
+.fsPhqL, .fdlFA, .bcixsP, .sc-GqfZa.eKkIWR, .sc-nFpLZ.jrybdk, .sc-GqfZa.eKkIWR, .sc-GqfZa.eKkIWR, .sc-nFpLZ.jrybdk, .sc-iNqMTl.bcixsP, .sc-nFpLZ.bdemtp, .sc-khAkjo.bvMJYu
+{
+    background: #E4E4BF;
+}
+
+/*hover button menu*/
+div[role=button]:hover{
+    background: #EFF4F5;
+}
+/* Home page */
+/* .sc-dwfUOf
+{
+    background: #19e0ee;
+    /*background-image: url('https://www.noelshack.com/2021-10-6-1615628504-armadillocartoon.png');
+} */
+
+/* Login button */
+.erYDEX
+{
+    background-color: rgb(228, 191, 110);
+}
+
+.timer{
+    font-weight: bold;
+    size:150%;
+    font-size: 200%;
+    text-align: center;
+}
+
+.fire{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#wrapper {
+    text-align: center;
+  }
+#solarYoutube {
+    display: inline-block;
+  }
+
+#textInsideTimer
+{
+    text-align: center;
+    color: rgb(62, 61, 67);
+}
+
+.HeadingHomePage{
+    text-align: center;
+}
+
+.ArmadilloHomeImages{
+    margin-left:20px;
+    margin-right:20px;
+}
+
+.subHeadingHomePage{
+    text-align:center;
+    size: 200%;
+}
+
+.homeCardDiv{
+    text-align:center;
+}
+
+
+.infoToken{
+    margin : 10px 10px;
+    color: rgb(62, 61, 67);
+}
+
+.sc-dQppl.eAOCdS.sc-kIeTtH.eNcdFe{
+    background-color: rgb(228, 228, 191);
+}
