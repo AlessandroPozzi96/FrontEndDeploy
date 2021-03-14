@@ -1,0 +1,65 @@
+/* a{
+    background-color: red;
+    color:red; 
+} */
+
+/* .sc-cOajty.jwOvoB{
+    display: none;
+} */
+
+.sc-GqfZa.eKkIWR, .sc-nFpLZ.jrybdk, .sc-iNqMTl.bcixsP, .sc-nFpLZ.bdemtp{
+    background-color: #E4E4BF;
+    color:#005c99;
+}
+
+/* Metamask button */
+/* .sc-dlfnbm.erYDEX{
+    display:none;
+    color:#005c99;
+}
+
+.sc-laRPJI.cJRswV{
+    display:none;
+} */
+
+/* Header titlte */
+.sc-cOajty.jwOvoB{
+    font-size: larger;
+    font-weight: bold;
+    /* font-family: "Gill Sans", sans-serif; */
+    color:black;
+}
+/* bottom pankake logo */
+.sc-bdfBwQ.gGTCcW{
+    display: none;
+}
+/* Menu items */
+.sc-AzgDb.dNLqq{
+    color:rgb(132, 82, 15);
+}
+
+.sc-gTgzIj.qKSyz, .sc-nFpLZ.kXatIU{
+    background-color: #E4E4BF;
+}
+
+/* Temp rule : highlight button*/
+div.sc-gTgzIj.qKSyz .oDkzD 
+{
+    box-shadow: inset 4px 0px 0px #E4BF6E;
+}
+
+.sc-jeGSBP.fdlFA{
+    display: none;
+}
+
+.fwEjII {
+    margin-right: 5px;
+}
+
+svg[role=menuLogo].fwEjII{
+    fill: rgb(132, 82, 15);
+}
+
+svg[role=menuLogo].SfwyR{
+    fill: rgb(132, 82, 15);
+}
